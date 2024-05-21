@@ -1,4 +1,5 @@
 <h1>
+
     <a href="https://www.dio.me/">
      <img align="center" width="40px" src="https://hermes.digitalinnovation.one/assets/diome/logo-minimized.png"></a>
     <span> Versionamento de Código com Git e GitHub</span>
@@ -67,15 +68,14 @@ Introduzir ao versionamento de código com Git e GitHub.
   <tfoot></tfoot>
 </table>
 
-## Instrutora
+## Aluna Projeto Bootcamp Santander Java 2024
 <table>
   <tr>
     <td>
-      <img width="80px" align="center" src="https://avatars.githubusercontent.com/elidianaandrade"/>
-    </td>
+   </td>
     <td align="left">
-      <a href="https://github.com/elidianaandrade">
-        <span><b>Elidiana Andrade</b></span>
+      <a href="https://github.com/gabriellycristhine">
+        <span><b>Gabrielly cristhine</b></span>
       </a>
       <br>
       <span>Desenvolvedora Front-end</span>
